@@ -1,0 +1,4 @@
+/snap/clion/100/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=/usr/lib/x86_64-linux-gnu/qt5/lib/cmake -G "CodeBlocks - Unix Makefiles" /home/maria/studier/three/git/programmeringsmetodik/projekt
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/maria/studier/three/git/programmeringsmetodik/projekt/cmake-build-release

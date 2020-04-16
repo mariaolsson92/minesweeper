@@ -1,0 +1,4 @@
+/home/maria/studier/three/git/programmeringsmetodik/projekt/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/maria/studier/three/git/programmeringsmetodik/projekt/cmake-build-release/CMakeFiles/projekt.dir
+/home/maria/studier/three/git/programmeringsmetodik/projekt/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/maria/studier/three/git/programmeringsmetodik/projekt/cmake-build-release/CMakeFiles/projekt_autogen.dir
