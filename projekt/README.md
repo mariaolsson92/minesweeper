@@ -1,2 +1,2 @@
 # Minesweeper
-Documentation for a minesweeper game.
+Doxyfile documentation for a minesweeper game.
